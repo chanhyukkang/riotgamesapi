@@ -1,12 +1,12 @@
-package org.ajou.realcoding.weathercrawler.weathercrawler.service;
+package org.ajou.realcoding.weathercrawler.riotgamesapi.service;
 
 import com.fasterxml.jackson.core.type.TypeReference;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import lombok.extern.slf4j.Slf4j;
-import org.ajou.realcoding.weathercrawler.weathercrawler.api.LOLApiClient;
-import org.ajou.realcoding.weathercrawler.weathercrawler.domain.Summoner;
-import org.ajou.realcoding.weathercrawler.weathercrawler.domain.LeaguePosition;
-import org.ajou.realcoding.weathercrawler.weathercrawler.repository.SummonerRepository;
+import org.ajou.realcoding.weathercrawler.riotgamesapi.api.LOLApiClient;
+import org.ajou.realcoding.weathercrawler.riotgamesapi.domain.Summoner;
+import org.ajou.realcoding.weathercrawler.riotgamesapi.domain.LeaguePosition;
+import org.ajou.realcoding.weathercrawler.riotgamesapi.repository.SummonerRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.scheduling.annotation.Scheduled;
 import org.springframework.stereotype.Service;

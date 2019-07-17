@@ -1,4 +1,4 @@
-package org.ajou.realcoding.weathercrawler.weathercrawler.config;
+package org.ajou.realcoding.weathercrawler.riotgamesapi.config;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

@@ -1,4 +1,4 @@
-package org.ajou.realcoding.weathercrawler.weathercrawler.domain;
+package org.ajou.realcoding.weathercrawler.riotgamesapi.domain;
 
 import lombok.Data;
 import org.springframework.data.annotation.Id;

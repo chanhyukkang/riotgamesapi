@@ -1,7 +1,7 @@
-package org.ajou.realcoding.weathercrawler.weathercrawler.api;
+package org.ajou.realcoding.weathercrawler.riotgamesapi.api;
 
-import org.ajou.realcoding.weathercrawler.weathercrawler.domain.Summoner;
-import org.ajou.realcoding.weathercrawler.weathercrawler.domain.LeaguePosition;
+import org.ajou.realcoding.weathercrawler.riotgamesapi.domain.Summoner;
+import org.ajou.realcoding.weathercrawler.riotgamesapi.domain.LeaguePosition;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.core.ParameterizedTypeReference;
 import org.springframework.http.HttpMethod;

@@ -1,4 +1,4 @@
-package org.ajou.realcoding.weathercrawler.weathercrawler;
+package org.ajou.realcoding.weathercrawler.riotgamesapi;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

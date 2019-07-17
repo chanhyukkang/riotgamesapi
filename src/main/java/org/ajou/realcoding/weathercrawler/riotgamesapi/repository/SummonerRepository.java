@@ -1,7 +1,7 @@
-package org.ajou.realcoding.weathercrawler.weathercrawler.repository;
+package org.ajou.realcoding.weathercrawler.riotgamesapi.repository;
 
-import org.ajou.realcoding.weathercrawler.weathercrawler.domain.Summoner;
-import org.ajou.realcoding.weathercrawler.weathercrawler.domain.LeaguePosition;
+import org.ajou.realcoding.weathercrawler.riotgamesapi.domain.Summoner;
+import org.ajou.realcoding.weathercrawler.riotgamesapi.domain.LeaguePosition;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.data.mongodb.core.MongoTemplate;
 import org.springframework.data.mongodb.core.query.Criteria;

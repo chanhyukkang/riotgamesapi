@@ -1,8 +1,8 @@
-package org.ajou.realcoding.weathercrawler.weathercrawler.controller;
+package org.ajou.realcoding.weathercrawler.riotgamesapi.controller;
 
-import org.ajou.realcoding.weathercrawler.weathercrawler.domain.Summoner;
-import org.ajou.realcoding.weathercrawler.weathercrawler.domain.LeaguePosition;
-import org.ajou.realcoding.weathercrawler.weathercrawler.service.SummonerService;
+import org.ajou.realcoding.weathercrawler.riotgamesapi.domain.Summoner;
+import org.ajou.realcoding.weathercrawler.riotgamesapi.domain.LeaguePosition;
+import org.ajou.realcoding.weathercrawler.riotgamesapi.service.SummonerService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;
